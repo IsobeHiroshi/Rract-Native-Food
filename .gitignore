@@ -12,3 +12,6 @@ web-build/
 
 # macOS
 .DS_Store
+
+# Yelp API configuration
+src/api/yelp.js
